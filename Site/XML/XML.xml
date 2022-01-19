@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+   <List>
+      <Numero>1</Numero>
+      <Estados>Amazonas</Estados>
+      <FocosDeIncendios>8588</FocosDeIncendios>
+      <Percentagens>30.6%</Percentagens>
+   </List>
+   <List>
+      <Numero>2</Numero>
+      <Estados>Para</Estados>
+      <FocosDeIncendios>7853</FocosDeIncendios>
+      <Percentagens>28%</Percentagens>
+   </List>
+   <List>
+      <Numero>3</Numero>
+      <Estados>Rondonia</Estados>
+      <FocosDeIncendios>4319</FocosDeIncendios>
+      <Percentagens>15%</Percentagens>
+   </List>
+   <List>
+      <Numero>4</Numero>
+      <Estados>Mato Grosso</Estados>
+      <FocosDeIncendios>3765</FocosDeIncendios>
+      <Percentagens>13%</Percentagens>
+   </List>
+   <List>
+      <Numero>5</Numero>
+      <Estados>Acre</Estados>
+      <FocosDeIncendios>3185</FocosDeIncendios>
+      <Percentagens>11%</Percentagens>
+   </List>
+   <List>
+      <Numero>6</Numero>
+      <Estados>Maranhao</Estados>
+      <FocosDeIncendios>267</FocosDeIncendios>
+      <Percentagens>1%</Percentagens>
+   </List>
+   <List>
+      <Numero>7</Numero>
+      <Estados>Amapa</Estados>
+      <FocosDeIncendios>19</FocosDeIncendios>
+      <Percentagens>0.1%</Percentagens>
+   </List>
+   <List>
+      <Numero>8</Numero>
+      <Estados>Roraima</Estados>
+      <FocosDeIncendios>19</FocosDeIncendios>
+      <Percentagens>0.1%</Percentagens>
+   </List>
+</Library> 
