@@ -1,4 +1,4 @@
-# AMAZONIA 
+# AMAZÓNIA 
 
 
 
@@ -11,6 +11,7 @@ Na disciplina de Tecnologias Web, foi proposto um trabalho final que consiste na
 * Paginas [HTML](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/1_Fase)
 * Paginas [CSS](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/1_Fase/estilo)
 * Site [imagens](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/1_Fase/imagens)
+
 ## Gallery
 
 _Please provide a galery of the final result, with small images_
@@ -26,7 +27,7 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ### Frameworks and Libraries
 
-* Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
+* [Bootstrap](https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)) é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
