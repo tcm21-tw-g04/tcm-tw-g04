@@ -14,9 +14,12 @@ Na disciplina de Tecnologias Web, foi proposto um trabalho final que consiste na
 
 ## Gallery
 
-_Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
-
+| | |
+:---: | :---:
+![1](https://github.com/tcm21-tw-g04/tcm-tw-g04/blob/main/Doc/Imagens/Site1.jpg) | ![2](https://github.com/tcm21-tw-g04/tcm-tw-g04/blob/main/Doc/Imagens/Site2.jpg) 
+1 | 2
+![3](https://github.com/tcm21-tw-g04/tcm-tw-g04/blob/main/Doc/Imagens/Site3.jpg) | ![4](https://github.com/tcm21-tw-g04/tcm-tw-g04/blob/main/Doc/Imagens/Site4.jpg)
+3 | 4
 ## Technologies
 
 
