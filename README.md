@@ -9,7 +9,7 @@ An example report using markdown on Github. This documentation is writen using [
 ## Repository organization
 
 _Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](src/1_Fase/pagina1.html).
+* **Source code** is in the [src folder](src/https://github.com/tcm21-tw-g04/tcm-tw-g04/blob/197e28733a4e122c6e88014f638a2d345c6c1df3/1_Fase/pagina1.html).
 * Report chapters are in [doc folder](doc/).
 
 ## Gallery
