@@ -10,7 +10,7 @@ Na disciplina de Tecnologias Web, foi proposto um trabalho final que consiste na
 
 * Páginas [HTML](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/)
 * Páginas [CSS](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/estilo)
-* Paginas [XML](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/XML)
+* Paginas [XML](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/xml)
 * Imagens utilizada na [página](https://github.com/tcm21-tw-g04/tcm-tw-g04/tree/main/imagens)
 
 ## Gallery
